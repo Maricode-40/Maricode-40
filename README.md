@@ -7,7 +7,7 @@ I have twelve years of experience in the technology sector, I have worked as a t
  
 I am passionate about technology and in the future I would like to become a Front-End Technical Lead. For  ten years of my career I was in contact with Salesforce as a key user administrator of this tool, supporting my company to launch its first Salesforce Community Cloud platform and being part of the mobile strategy, personalization, branding, engagement, e-commerce platform and integration of the core business Recruitment with customize Salesforce trainings for Universities, freelancers or companies. I supported the company by providing first level support to our global customers in the first phase of that project. 
 
-<p> My goal and motivation is to continue leading the Salesforce Women in Technology Community Group with which I have been  volunteering for the  for 5 years. </p> 
+<p> My goal and motivation is to continue leading the Salesforce Women in Technology Community Group with which I have been  volunteering for the past 5 years. </p> 
 
 
  I would like to continue deepening and learning tools such as redux, MongoDB, Cypress Testing, UX/UI user experiences and Javascript.
@@ -31,6 +31,7 @@ I am passionate about technology and in the future I would like to become a Fron
 
 
 - 📫 How to reach me:  Discord, linkedIn, Email
+  
 
 - - ⚡ Fun fact: Everything I had known had changed in a very short period of time. Life is change.
 
