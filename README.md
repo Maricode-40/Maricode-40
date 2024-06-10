@@ -3,7 +3,7 @@
 <div> 
 I have twelve years of experience in the technology sector, I have worked as a technical recruiter, team leader and business development for sales and customize trainings in Salesforce, SAP, Automation Anywhere and cybersecurity. 
 
- Teamwork,  ability and creativity to find solutions and alternatives together with my interest in constantly learning and facing new challenges, has driven me to take the GeeksHubs Academy Full Stack Developer Bootcamp, and in this way make possible that I am currently establishing my professional development in the field of programming, specifically in application development, oriented to backend development in close collaboration with server logic and databases, and frontend development, in order to design attractive, functional and intuitive user experiences. My holistic approach to both disciplines represents my dedication to delivering complete and effective technology solutions.  
+ Teamwork, the ability and creativity to find solutions and alternatives together with my interest in constantly learning and facing new challenges, has driven me to take the GeeksHubs Academy Full Stack Developer Bootcamp, and in this way make possible that I am currently establishing my professional development in the field of programming, specifically in application development, oriented to backend development in close collaboration with server logic and databases, and frontend development, in order to design attractive, functional and intuitive user experiences. My holistic approach to both disciplines represents my dedication to delivering complete and effective technology solutions.  
  
 I am passionate about technology and in the future I would like to become a Front-End Technical Lead. For  ten years of my career I was in contact with Salesforce as a key user administrator of this tool, supporting my company to launch its first Salesforce Community Cloud platform and being part of the mobile strategy, personalization, branding, engagement, e-commerce platform and integration of the core business Recruitment with customize Salesforce trainings for Universities, freelancers or companies. I supported the company by providing first level support to our global customers in the first phase of that project. 
 
@@ -30,7 +30,9 @@ I am passionate about technology and in the future I would like to become a Fron
 
 
 
-- 📫 How to reach me:  Discord, linkedIn, Email 
+- 📫 How to reach me:  Discord, linkedIn, Email
+
+- - ⚡ Fun fact: Everything I had known had changed in a very short period of time. Life is change.
 
 <!--
 **Maricode-40/Maricode-40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
