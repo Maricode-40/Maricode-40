@@ -11,7 +11,7 @@ I am passionate about technology and in the future I would like to become a Fron
 <p> My goal and motivation is to continue leading the Salesforce Women in Technology Community Group with which I have been  volunteering for some years. </p> 
 
 
- I would like to continue deepening and learning tools such as redux, reactJs., AI Salesforce , MongoDB, Cypress Testing, UX/UI user experiences and Javascript, digital marketing and python
+ I would like to continue deepening and learning tools such as redux, reactJs., AI Salesforce , MongoDB, Cypress Testing, UX/UI user experience, Javascript, digital marketing and python
 </div>
 
 <h2 style="text-align: left;"> Languages and Tools:  </h2>
