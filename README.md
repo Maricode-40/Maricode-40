@@ -1,16 +1,17 @@
 ## Hi there 👋 Marissa Rico here!   - 😄 Pronouns: She/Her/Ella
 
 <div> 
-I have twelve years of experience in the technology sector, I have worked as a technical recruiter, team leader and business development for B2B,B2C,M2M Sales and customize trainings in Salesforce, SAP, Automation Anywhere and cybersecurity. 
+I have twelve years of experience in the technology sector. 
+Nowadays, I´m working as salesforce administrator, AI Team Lead and a CMS-(WP) Web developer. I have worked as a technical recruiter, team leader and business development for B2B,B2C,M2M Sales and customize trainings in Salesforce, SAP, AA , etc...
 
  Teamwork, my ability and creativity to find solutions and alternatives together with my interest in constantly learning and facing new challenges, has driven me to take the GeeksHubs Academy Full Stack Developer Bootcamp, and in this way make possible that I am currently establishing my professional development in the field of programming, specifically in application development, oriented to backend development in close collaboration with server logic and databases, and frontend development, in order to design attractive, functional and intuitive user experiences. My holistic approach to both disciplines represents my dedication to delivering complete and effective technology solutions.  
  
 I am passionate about technology and in the future I would like to become a Front-End Technical Lead. For  ten years of my career I was in contact with Salesforce as a key user administrator of this tool, supporting my company to launch its first Salesforce Community Cloud platform (Nowadays = Experience Cloud)  also being part of the mobile strategy, personalization, branding, engagement, e-commerce platform and integration of the core business Recruitment with customize Salesforce trainings for Universities, freelancers or companies. I supported the company by providing first level support to our global customers in the first phase of that project. 
 
-<p> My goal and motivation is to continue leading the Salesforce Women in Technology Community Group with which I have been  volunteering for the past 5 years. </p> 
+<p> My goal and motivation is to continue leading the Salesforce Women in Technology Community Group with which I have been  volunteering for some years. </p> 
 
 
- I would like to continue deepening and learning tools such as redux, MongoDB, Cypress Testing, UX/UI user experiences and Javascript.
+ I would like to continue deepening and learning tools such as redux, reactJs., AI Salesforce , MongoDB, Cypress Testing, UX/UI user experiences and Javascript, digital marketing and python
 </div>
 
 <h2 style="text-align: left;"> Languages and Tools:  </h2>
